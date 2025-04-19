@@ -1,0 +1,2 @@
+# birinchi
+Xondamir_bot
